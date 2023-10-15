@@ -1,3 +1,3 @@
-# CPSC-221
+# C++
 
 Course works for CPSC 221
